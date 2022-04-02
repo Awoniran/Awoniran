@@ -1,4 +1,4 @@
-# Hi there, I'm Micheal - Awoniran 👋 
+# Hi there, I'm Micheal - Awoniran 👋
 
 ## I'm a Student, Developer, and Teacher !!
 
@@ -7,7 +7,8 @@
 - 👯 I’m looking to collaborate with other BRILLIANT minds Developers
 - 🥅 2022 Goals: Learn more about Web Development
 - ⚡ Fun fact: I love listening to Songs and playing Tennis
-- 😻 CSE student @ OAU-IFE ....>>
+- 😻 CSE student @ OAU-IFE ....
+- 🥅 2022 Goals: Learn about Web 3
 
 ### Connect with me:
 
@@ -38,10 +39,10 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+
 - [The Evolving world of Quantum Computing](https://yourtech-friend.blogspot.com/2021/12/the-evolving-world-of-quantum-computing.html)
 - [Software Engineers VS Software Developers](https://yourtech-friend.blogspot.com/2021/10/software-developers-vs-software.html)
 - [FOUR MAJOR TIPS ON SELECTING THE BEST TECH STACK(S) FOR YOUR PROJECTS](https://yourtech-friend.blogspot.com/2021/08/four-major-tips-on-selecting-best-tech.html)
-
 
 ➡️ [more blog posts...](https://yourtech-friend.blogspot.com/?m=1)
 
@@ -64,4 +65,3 @@
   <img align="left" alt="Awoniran's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Awoniran&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
 
 </details>
-
