@@ -3,7 +3,7 @@
 ## I'm a Student and a Developer !!
 
 - 🔭 I am proficient in NodeJs:
-- 🌱 I’m currently learning TypeScript 🤣
+- 🌱 I’m currently learning TypeScript ...
 - 👯 I’m looking to collaborate with other BRILLIANT minds Developers
 - 🥅 2022 Goals: Learn more about Web Development
 - ⚡ Fun fact: I love listening to Songs and playing Tennis
