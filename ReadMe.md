@@ -14,8 +14,8 @@
 [![website](./img/twitter-light.svg)](https://twitter.com/_mikeAwoniran#gh-light-mode-only)
 [![website](./img/twitter-dark.svg)](https://twitter.com/_mikeAwoniran#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://linkedin.com/in/micheal-awoniran-a47b56206#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/micheal-awoniran-a47b56206#gh-dark-mode-only)
+[![LinkedIn](./img/linkedin-light.svg)](https://linkedin.com/in/micheal-awoniran-a47b56206#gh-light-mode-only)
+[![LinkedIn](./img/linkedin-dark.svg)](https://linkedin.com/in/micheal-awoniran-a47b56206#gh-dark-mode-only)
 &nbsp;&nbsp;
 
 ### Languages and Tools:
