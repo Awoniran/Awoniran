@@ -1,6 +1,6 @@
 # Hi there, I'm Micheal - Awoniran 👋
 
-## I'm a Student, Developer !!
+## I'm a Student and a Developer !!
 
 - 🔭 I am proficient in NodeJs:
 - 🌱 I’m currently learning TypeScript 🤣
