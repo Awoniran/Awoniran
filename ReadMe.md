@@ -60,8 +60,7 @@
 <!--START_SECTION:activity-->
 1. ❌ Closed PR [#5](https://github.com/Awoniran/NASA-API) in [Work on NASA API, work with spaceX data..](https://github.com/Awoniran/NASA-API)
 2. 💪 Opened PR [#1580](https://github.com/Awoniran/Natours-API) in [natours/github-readme-stats](https://github.com/Natours-API)
-3. 🗣 Commented on [#1572](https://github.com/anuraghazra/github-readme-stats/issues/1572) in [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
-4. 💪 Opened PR [#1](https://github.com/Awoniran/Ecommerce) in [Gooble Enterprise Ecommerce Backend API](https://github.com/Awoniran/Ecommerce)
+3. 💪 Opened PR [#1](https://github.com/Awoniran/Ecommerce) in [Gooble Enterprise Ecommerce Backend API](https://github.com/Awoniran/Ecommerce)
 <!--END_SECTION:activity-->
 
 </details>
