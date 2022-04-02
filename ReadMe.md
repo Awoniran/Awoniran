@@ -11,8 +11,8 @@
 
 ### Connect with me:
 
-[![Twitter](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg)](https://twitter.com/_mikeAwoniran#gh-light-mode-only)
-[![Twitter](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg)](https://twitter.com/_mikeAwoniran#gh-dark-mode-only)
+[![Twitter](./img/twitter-light.svg)](https://twitter.com/_mikeAwoniran#gh-light-mode-only)
+[![Twitter](./img/twitter-dark.svg)](https://twitter.com/_mikeAwoniran#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![LinkedIn](./img/linkedin-light.svg)](https://linkedin.com/in/micheal-awoniran-a47b56206#gh-light-mode-only)
 [![LinkedIn](./img/linkedin-dark.svg)](https://linkedin.com/in/micheal-awoniran-a47b56206#gh-dark-mode-only)
@@ -31,7 +31,7 @@
 [<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />]
 [<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />]
 [<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png" />]
-[<img align="left" alt="Docker" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/docker/docker-original.svg" style="padding-right:10px;" />]
+[<img align="left" alt="Docker" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" style="padding-right:10px;" />]
 
 <br />
 
