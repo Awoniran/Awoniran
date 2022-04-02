@@ -8,8 +8,8 @@
 - 🥅 2022 Goals: Learn more about Web Development
 - ⚡ Fun fact: I love listening to Songs and playing Tennis
 - 😻 CSE student @ OAU-IFE ....
-- 🥅 2022 Goals: Learn about Web 3
-
+- 🥅 2022 Goals: Learn about Web 3 and contribute to Open source
+ 
 ### Connect with me:
 
 [![Twitter](./img/twitter-light.svg)](https://twitter.com/_mikeAwoniran#gh-light-mode-only)
