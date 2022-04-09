@@ -6,7 +6,6 @@
 - 🌱 I’m currently learning TypeScript ...
 - 🥅 2022 Goals: Learn about Web 3 and contribute to Open source
 - 👯 I’m looking to collaborate with other BRILLIANT minds Developers
-- 🥅 2022 Goals: Learn more about Web Development
 - ⚡ Fun fact: I love listening to Songs and playing Tennis
 - 😻 CSE student @ OAU-IFE ....
  
